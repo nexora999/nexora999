@@ -1,117 +1,179 @@
-# Hi, I'm Paul 👋
+<div align="center">
 
-### Full-Stack • AI/ML • Mobile • Embedded Systems
+# Hi! 👋
 
-I’m a software engineer who enjoys building complete products across **web, mobile, cloud, AI, and embedded systems**.
+### Full-Stack · AI · Mobile · Embedded Systems
 
-My strongest areas are **full-stack development, AI-powered applications, mobile development, and embedded/IoT systems**. I like working on products where software, infrastructure, devices, and intelligent systems come together.
+**Building software from device and edge to application, cloud, and AI.**
 
----
-
-## 🚀 What I Build
-
-🌐 **Full-Stack Applications**
-Modern web platforms, APIs, dashboards, real-time systems, and scalable backend services.
-
-🤖 **AI & Intelligent Systems**
-LLM applications, AI agents, RAG, computer vision, machine learning, and Edge AI.
-
-📱 **Mobile Applications**
-Native Android and iOS apps, plus cross-platform apps with Flutter and React Native.
-
-⚙️ **Embedded & IoT Systems**
-Embedded Linux, device software, sensors, telemetry, real-time processing, and edge-to-cloud systems.
-
-☁️ **Cloud & Infrastructure**
-Cloud-native services, containers, Kubernetes, distributed systems, CI/CD, and scalable deployments.
+</div>
 
 ---
 
-## 🧰 Core Stack
+## 👨‍💻 About Me
 
-### Web & Backend
+I'm a software engineer focused on building **complete, production-ready systems** across web, mobile, cloud, AI, and embedded platforms.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square\&logo=vuedotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask)
+I enjoy working across the full engineering stack — whether that means developing low-level software in **C/C++**, building native and cross-platform mobile apps, designing modern web platforms and backend services, or integrating **AI into real-world products**.
 
-### AI & Systems
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux)
-
-### Mobile
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square\&logo=swift)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react)
-
-### Cloud & Data
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square\&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis)
+What interests me most is solving problems where multiple layers of technology need to work well together.
 
 ---
 
-## 💡 Engineering Focus
+## 🚀 What I Work On
 
-I’m especially interested in building systems that combine multiple layers of technology:
+| 🌐 **Full-Stack**                                                                       | 🤖 **AI & Intelligent Systems**                                                               |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Modern web applications, APIs, real-time services, dashboards, and distributed backends | AI-powered applications, intelligent workflows, LLM integration, computer vision, and edge AI |
 
-**AI + Full Stack**
-LLM applications, intelligent workflows, RAG systems, AI-powered SaaS products, and computer vision.
-
-**Edge + Cloud**
-Embedded devices, telemetry, real-time processing, cloud APIs, distributed services, and IoT platforms.
-
-**Mobile + Backend**
-Native and cross-platform apps backed by scalable APIs, authentication, real-time data, and cloud infrastructure.
+| 📱 **Mobile**                                                               | ⚙️ **Embedded & IoT**                                                                                 |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Native Android & iOS development plus Flutter and React Native applications | C/C++ systems, device software, telemetry, sensors, real-time processing, and edge-to-cloud solutions |
 
 ---
 
-## 🧠 How I Work
+# 🧰 Technology Stack
 
-I care about more than getting software to run.
+### 🌐 Frontend
 
-I focus on building systems that are:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue&theme=light" alt="Frontend technologies" />
+</p>
 
-**Scalable** • **Maintainable** • **Reliable** • **Secure** • **Observable** • **Production Ready**
-
----
-
-## 📊 GitHub
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+**React · Angular · Vue.js · JavaScript · TypeScript · HTML · CSS**
 
 ---
 
-## 🤝 Let's Connect
+### ⚙️ Backend
 
-I’m always interested in challenging engineering problems, AI products, embedded systems, scalable platforms, and opportunities to build meaningful software.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi&theme=light" alt="Backend technologies" />
+</p>
 
-**LinkedIn:** https://linkedin.com/in/YOUR_PROFILE
-**Portfolio:** https://YOUR_WEBSITE.com
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+**Node.js · Express · Python · Django · Flask · FastAPI · REST APIs · Microservices**
+
+I work comfortably with both JavaScript/TypeScript and Python backend ecosystems, including **MERN, MEAN, and Python-based full-stack architectures**.
 
 ---
 
-> **From embedded devices to cloud platforms and AI — I enjoy building the whole system.**
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" alt="AI development" />
+</p>
+
+**AI Applications · LLM Integration · AI Agents · RAG · Machine Learning · Computer Vision · Edge AI**
+
+I particularly enjoy integrating AI into production applications rather than treating it as an isolated experiment.
+
+---
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,flutter,react&theme=light" alt="Mobile technologies" />
+</p>
+
+**Android / Kotlin · iOS / Swift · Flutter · React Native**
+
+From native mobile applications to shared cross-platform products, I work across UI, application architecture, API integration, real-time communication, and backend connectivity.
+
+---
+
+### 🔧 Embedded & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux&theme=light" alt="Embedded technologies" />
+</p>
+
+**C · C++ · Python · Embedded Systems · IoT · Real-Time Processing · Device Communication · Edge Computing**
+
+I enjoy working close to the hardware layer, especially when embedded devices need to communicate reliably with mobile applications and cloud infrastructure.
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=light" alt="Cloud and DevOps technologies" />
+</p>
+
+**AWS · Microsoft Azure · Google Cloud · Docker · Kubernetes · CI/CD · Cloud-Native Architecture**
+
+---
+
+### 🗄️ Data & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=light" alt="Database technologies" />
+</p>
+
+**PostgreSQL · MySQL · MongoDB · Redis**
+
+I care about good data modeling, efficient queries, caching strategies, scalability, and choosing the right storage technology for the problem.
+
+---
+
+## 🧩 How It All Connects
+
+```text
+        Embedded / IoT
+              │
+              ▼
+        Edge Processing
+              │
+              ▼
+Mobile ─── Backend APIs ─── Web
+              │
+              ▼
+       Cloud & Data
+              │
+              ▼
+        AI / Intelligence
+```
+
+The part of software engineering I find most rewarding is connecting these layers into **one reliable system**.
+
+---
+
+## 🧠 Engineering Philosophy
+
+> **Good software isn't just code that works. It should remain understandable, reliable, and adaptable as the product grows.**
+
+I value **clear architecture, practical engineering decisions, maintainability, performance, security, and a strong user experience**.
+
+I prefer simple solutions when simple solutions are enough — and deeper engineering when the problem genuinely requires it.
+
+---
+
+## 📊 GitHub Activity
+
+<!-- Replace YOUR_USERNAME with your actual GitHub username -->
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://YOUR_WEBSITE.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building across the stack — from embedded devices to cloud platforms and AI.
+
+</div>
