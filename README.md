@@ -168,7 +168,7 @@ I also believe complexity has to earn its place. The best solution is often the 
 
 <div align="center">
 
-`AI Products` · `Distributed Systems` · `Computer Vision` · `Real-Time Systems` · `Edge AI` · `IoT` · `Cloud Platforms` · `Mobile` · `Desktop` · `Developer Tools`
+`AI Products` · `Distributed Systems` · `Computer Vision` · `Real-Time Systems` · `Edge AI` · `IoT` · `Cloud Platforms` · `Mobile` · `Desktop` · `Developer Tools` · `Raspberry Pi` · `PLC` · `ESP32`
 
 </div>
 
