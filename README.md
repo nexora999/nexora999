@@ -1,225 +1,96 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Paul 👋
 
-### Full-Stack • AI/ML • Mobile • Embedded Systems • Cloud
+### Full-Stack • AI/ML • Mobile • Embedded Systems
 
-I'm a software engineer focused on building reliable, scalable, and intelligent products across **web, mobile, cloud, AI, and embedded systems**.
+I’m a software engineer who enjoys building complete products across **web, mobile, cloud, AI, and embedded systems**.
 
-My experience spans the full software stack — from low-level **C/C++ embedded development** and cross-platform mobile applications to distributed cloud platforms, modern web applications, and production AI systems.
-
-I enjoy solving complex engineering problems, designing scalable architectures, and turning ideas into production-ready products.
+My strongest areas are **full-stack development, AI-powered applications, mobile development, and embedded/IoT systems**. I like working on products where software, infrastructure, devices, and intelligent systems come together.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-### 🌐 Full-Stack Development
+🌐 **Full-Stack Applications**
+Modern web platforms, APIs, dashboards, real-time systems, and scalable backend services.
 
-I build modern, scalable web applications from frontend to backend and infrastructure.
+🤖 **AI & Intelligent Systems**
+LLM applications, AI agents, RAG, computer vision, machine learning, and Edge AI.
 
-**Frontend**
+📱 **Mobile Applications**
+Native Android and iOS apps, plus cross-platform apps with Flutter and React Native.
 
-- React
-- Angular
-- Vue.js
-- TypeScript
-- JavaScript
-- HTML5 / CSS3
+⚙️ **Embedded & IoT Systems**
+Embedded Linux, device software, sensors, telemetry, real-time processing, and edge-to-cloud systems.
 
-**Backend**
-
-- Node.js / Express
-- Python
-- Django
-- Flask
-- FastAPI
-- REST APIs
-- Microservices
-- Real-Time Systems
-
-**Full-Stack**
-
-- MERN — MongoDB, Express, React, Node.js
-- MEAN — MongoDB, Express, Angular, Node.js
-- Python + React / Angular / Vue
+☁️ **Cloud & Infrastructure**
+Cloud-native services, containers, Kubernetes, distributed systems, CI/CD, and scalable deployments.
 
 ---
 
-## 📱 Mobile Development
+## 🧰 Core Stack
 
-I develop native and cross-platform applications for Android and iOS.
+### Web & Backend
 
-- **Android:** Kotlin
-- **iOS:** Swift
-- **Cross Platform:** Flutter / Dart
-- **Cross Platform:** React Native
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square\&logo=vuedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask)
 
-I work across application architecture, API integration, authentication, real-time communication, performance optimization, and production deployment.
+### AI & Systems
 
----
-
-## 🤖 AI & Machine Learning
-
-I build AI-powered applications and integrate machine learning into real-world products.
-
-Areas I work with include:
-
-- Large Language Models
-- Generative AI
-- AI Agents
-- Retrieval-Augmented Generation — RAG
-- Computer Vision
-- Machine Learning
-- Deep Learning
-- NLP
-- Vector Databases
-- AI API Integration
-- Edge AI
-- AI-powered backend services
-
-**Technologies**
-
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `OpenAI` `LangChain` `LangGraph` `RAG` `Vector Databases`
-
----
-
-## ⚙️ Embedded & Systems Development
-
-I also enjoy working close to the hardware layer and building performance-sensitive systems.
-
-- C
-- C++
-- Python
-- Embedded Linux
-- IoT
-- Device Communication
-- Sensor Integration
-- Real-Time Systems
-- Edge Computing
-- Edge AI
-- Networking & Telemetry
-
-I particularly enjoy projects where **hardware, cloud infrastructure, and AI come together as one system**.
-
----
-
-## ☁️ Cloud & DevOps
-
-I design and deploy scalable cloud-native applications and infrastructure.
-
-**Cloud Platforms**
-
-- Amazon Web Services — AWS
-- Microsoft Azure
-- Google Cloud Platform — GCP
-
-**DevOps & Infrastructure**
-
-- Docker
-- Kubernetes
-- CI/CD
-- Redis
-- Linux
-- Microservices
-- Serverless Architecture
-- Message Queues
-- Event-Driven Systems
-- Monitoring & Observability
-
----
-
-## 🗄️ Databases
-
-I work with both relational and NoSQL databases.
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- Vector Databases
-
-My focus includes data modeling, query optimization, indexing, caching, scalability, and high-throughput application design.
-
----
-
-## 🧰 Technology Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat-square&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-000?style=flat-square&logo=swift)
-![Dart](https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart)
-
-### Web
-
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular)
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=flat-square&logo=vuedotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
-![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux)
 
 ### Mobile
 
-![Android](https://img.shields.io/badge/Android-000?style=flat-square&logo=android)
-![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter)
-![React Native](https://img.shields.io/badge/React_Native-000?style=flat-square&logo=react)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square\&logo=swift)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react)
 
-### Databases
+### Cloud & Data
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices)
-![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square\&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis)
 
 ---
 
-## 💡 Engineering Interests
+## 💡 Engineering Focus
 
-I'm especially interested in projects involving:
+I’m especially interested in building systems that combine multiple layers of technology:
 
-- 🤖 AI-native products
-- 🧠 Intelligent agents and LLM applications
-- 👁️ Computer vision
-- 🌐 Large-scale distributed systems
-- 📱 Mobile platforms
-- ⚙️ Embedded and IoT systems
-- ☁️ Cloud-native architecture
-- 📡 Real-time data processing
-- 🚀 High-performance backend systems
-- 🔗 Edge-to-cloud architectures
+**AI + Full Stack**
+LLM applications, intelligent workflows, RAG systems, AI-powered SaaS products, and computer vision.
+
+**Edge + Cloud**
+Embedded devices, telemetry, real-time processing, cloud APIs, distributed services, and IoT platforms.
+
+**Mobile + Backend**
+Native and cross-platform apps backed by scalable APIs, authentication, real-time data, and cloud infrastructure.
 
 ---
 
-## 🧠 How I Approach Engineering
+## 🧠 How I Work
 
-```text
-Clean Architecture
-+ Strong Fundamentals
-+ Scalable Infrastructure
-+ Great User Experience
-+ Intelligent Automation
-= Products that last
-```
+I care about more than getting software to run.
 
-I care about more than making software work.
+I focus on building systems that are:
 
-I focus on making it **maintainable, scalable, observable, secure, and useful in production**.
+**Scalable** • **Maintainable** • **Reliable** • **Secure** • **Observable** • **Production Ready**
 
 ---
 
@@ -227,22 +98,20 @@ I focus on making it **maintainable, scalable, observable, secure, and useful in
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in challenging engineering problems, innovative products, AI applications, and opportunities to build impactful software.
+I’m always interested in challenging engineering problems, AI products, embedded systems, scalable platforms, and opportunities to build meaningful software.
 
-📫 **Email:** your-email@example.com  
-💼 **LinkedIn:** https://linkedin.com/in/YOUR_PROFILE  
-🌐 **Portfolio:** https://YOUR_WEBSITE.com
+**LinkedIn:** https://linkedin.com/in/YOUR_PROFILE
+**Portfolio:** https://YOUR_WEBSITE.com
+**Email:** [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-### ⚡ Build. Learn. Improve. Repeat.
-
-> From embedded devices to cloud infrastructure and AI — I enjoy building the entire system.
+> **From embedded devices to cloud platforms and AI — I enjoy building the whole system.**
